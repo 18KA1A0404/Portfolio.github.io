@@ -330,7 +330,7 @@ nav .fas{
 
 @media only screen and (max-width:600px){
 	#header{
-		background-image: url(images/phone_image.webp);
+		background-image: url(Images/phone_image.webp);
 	}
 	.header-text{
 		margin-top: 100%;
