@@ -130,6 +130,12 @@ nav ul li a:hover::after{
 	color: #b54762;
 	font-size: 14px;
 }
+#experience{
+	flex-basis: 20%;
+	width: 50%;
+	height: 50%;
+	border-radius: 15px;
+}
 .tab-contents{
 	display: none;
 }
